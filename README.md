@@ -1,5 +1,7 @@
 # Cypress
-This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
+This automation is written in TypeScript 
+This is final task of the QA automation bootcamp Sanbercode
+
 
 ## Running Tests
 
@@ -7,7 +9,9 @@ This automation is written in TypeScript (a strict syntactical superset of JavaS
 
 ```bash
 npm install
+Npm intsall cypress
 ```
+
 
 run cypress
 ```bash
@@ -20,3 +24,4 @@ npx cypress open
 ```
 
 ### Thanks
+Refan Bekti
